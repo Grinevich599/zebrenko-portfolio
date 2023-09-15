@@ -65,6 +65,7 @@ input {
     font-size: 16px;
     line-height: 24px;
     color: #161D2A;
+    padding-top: 11px;
 }
 
 .skils {
@@ -126,4 +127,40 @@ padding: 88px 88px 88px 88px;
     line-height: 24px;
     color: #595959;
     width: 525px;
+}
+
+.experience {
+        font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin: 0 0 8px 0;
+    padding-top: 44px;
+}
+
+.experience-csgo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    padding-top: 22px;
+}
+
+.date-csgo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 12px 0 8px 0;
+}
+
+.story-csgo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
 }
